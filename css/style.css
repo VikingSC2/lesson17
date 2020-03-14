@@ -52,22 +52,52 @@ line-height: 19px;
 	width: 741px;
 }
 .start{
+	margin-top: 60px;
 	background: #EE4D47;
 	border-radius: 5px;
 	width: 220px;
 	height: 60px;
-	color: white;
 	border: none;
 }
 .start a{
+		color: white;
 	font-size: 16px;
 	line-height: 19px;
 	font-weight: bold;
 	
 }
 .start i{
+	color: white;
 	font-size: 19px;
 	line-height: 19px;
 	font-weight: bold;
 	padding-left: 10px;
+ }
+ .nav-logo .mobel{
+ 	padding-top: 90px;
+ }
+ .about_us{
+ 	padding-top: 106px;
+ }
+ .about_us-flex h3{
+ 	color: #EE4D47;
+ }
+ .about_us-text{
+ 	width: 470px;
+ 	height: 156px;
+ 	font-size: 18px;
+ 	padding-top: 40px;
+ }
+ .about_us-text-strong p{
+	padding: 30px 55px;
+	text-align: center;
+	font-size: 24px;
+	font-style: 
+ }
+ .about_us-text-strong{
+ 	background: #FCDDD4;
+ 	width: 570px;
+ 	height: 160px;
+ 	border-left: 10px #ED4D47 solid;
+ 	border-radius: 10px;
  }
